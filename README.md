@@ -27,4 +27,12 @@
 - Preencher todas as informações conforme o agente que deseja criar;
 - Criar primeiro a arquitetura, o esqueleto do projeto para depois inserir as informações --> não adicionar logo de início a base de dados
 
+# Copilot com Fluxo de Conversa Personalizado
+- Criar um Copilot em branco;
+- Adicionar uma descrição sobre a tarefa principal que será realizada por esse agente;
+- Instruções dadas com base em Prompts;
+- Adicionar tópico personalizado;
+- Personalizar uma mensagem de erro --> dentro do fluxo de conversational boosting;
+- Personalizar a qualidade da resposta com GenAI --> seleção das bases, uso de Prompt
+
 
