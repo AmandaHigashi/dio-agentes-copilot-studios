@@ -35,4 +35,5 @@
 - Personalizar uma mensagem de erro --> dentro do fluxo de conversational boosting;
 - Personalizar a qualidade da resposta com GenAI --> seleção das bases, uso de Prompt
 
-
+# Outras Funcionalidades
+Para saber sobre funcionalidades do Microsoft Studio relacionadas à IA e Machine Learning acesse [aqui!](/docs/docs.md)
